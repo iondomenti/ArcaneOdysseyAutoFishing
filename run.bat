@@ -31,4 +31,4 @@ REM Install dependencies
 pip install -r requirements.txt
 
 REM Run the script
-python main.py
+python src\main.py

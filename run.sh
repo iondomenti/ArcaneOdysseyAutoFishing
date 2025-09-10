@@ -17,4 +17,4 @@ pip install --upgrade pip
 pip install -r requirements.txt
 
 # Run the script
-python main.py
+python src/main.py
