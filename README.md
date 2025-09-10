@@ -1,0 +1,1 @@
+A simple and badly made python script for autofishing in arcane odyssey. Works on windows and linux with x11. Feel free to contribute.
